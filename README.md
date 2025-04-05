@@ -1,17 +1,17 @@
 # PDFGPT
 
-PDFGPT is a Python-based desktop application that allows you to interact with PDF documents using the power of Google's Gemini AI. [cite: 33, 34] It transforms static PDFs into dynamic knowledge sources, enabling you to ask questions and receive instant, context-aware answers. [cite: 35, 36, 37, 38, 39, 40]
+PDFGPT is a Python-based desktop application that allows you to interact with PDF documents using the power of Google's Gemini AI. It transforms static PDFs into dynamic knowledge sources, enabling you to ask questions and receive instant, context-aware answers.
 
 ## Features
 
-* **AI-Powered Question Answering:** Get intelligent answers based on the content of your uploaded PDFs. [cite: 35]
-* **Multiple PDF Support:** Upload and query multiple PDFs simultaneously. [cite: 36]
-* **PDF Upload and Processing:** Easily upload and analyze your PDF documents. [cite: 36]
-* **Natural Language Processing:** Accurate extraction and interpretation of text from PDFs. [cite: 37]
-* **Interactive Chat Interface:** A user-friendly chat interface for conversational queries. [cite: 38]
-* **Context-Aware Responses:** Receive relevant answers, not just keyword matches. [cite: 39]
-* **Efficient Information Retrieval:** Quickly find the information you need, saving time and effort. [cite: 40]
-* **User-Friendly GUI:** Built with CustomTkinter for a modern look and feel. [cite: 41]
+* **AI-Powered Question Answering:** Get intelligent answers based on the content of your uploaded PDFs.
+* **Multiple PDF Support:** Upload and query multiple PDFs simultaneously.
+* **PDF Upload and Processing:** Easily upload and analyze your PDF documents.
+* **Natural Language Processing:** Accurate extraction and interpretation of text from PDFs.
+* **Interactive Chat Interface:** A user-friendly chat interface for conversational queries.
+* **Context-Aware Responses:** Receive relevant answers, not just keyword matches.
+* **Efficient Information Retrieval:** Quickly find the information you need, saving time and effort.
+* **User-Friendly GUI:** Built with CustomTkinter for a modern look and feel.
 
 ## Prerequisites
 
