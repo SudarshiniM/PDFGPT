@@ -14,10 +14,10 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 * **User-Friendly GUI:** Built with CustomTkinter for a modern look and feel.
 
 ## Limitations
-* The system is currently designed to process and respond to English language PDF documents only. Even if a non-English PDF is uploaded, the system will attempt to answer questions in English, which may result in inaccurate or nonsensical responses.
-* The system does not process or respond to PDFs containing only images. It relies on text extraction.
-* The system does not store or persist chat history. Conversations are not accessible after the application is closed or the chat session is ended.
 
+* **Language Support:** The system is currently designed to process and respond to PDF documents written in English only. While it may attempt to answer questions about non-English PDFs, this can lead to inaccurate or nonsensical responses.
+* **Image-Based PDFs:** The system cannot process or provide responses for PDFs that consist solely of images. It relies on the extraction of text content.
+* **Chat History:** The system does not store or save chat history. Conversation logs are not retained once the application is closed or the chat session ends.
 ## Prerequisites
 
 * Python 3.x
