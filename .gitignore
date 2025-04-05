@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+/large_pdfs/
+.DS_Store # macOS specific
+/instance/
+venv/ # or .venv/ or env/ - your virtual env name
+/logs/

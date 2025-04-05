@@ -1,0 +1,7 @@
+customtkinter
+PyPDF2
+python-dotenv
+google-generativeai
+google-api-core
+requests
+Pillow
