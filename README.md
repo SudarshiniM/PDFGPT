@@ -2,6 +2,8 @@
 
 PDFGPT is a Python-based desktop application that allows you to interact with PDF documents using the power of Google's Gemini AI. It transforms static PDFs into dynamic knowledge sources, enabling you to ask questions and receive instant, context-aware answers.
 
+![Image](https://github.com/user-attachments/assets/1751e5db-d08e-4da6-8519-474140420530)
+
 ## Features
 
 * **AI-Powered Question Answering:** Get intelligent answers based on the content of your uploaded PDFs.
