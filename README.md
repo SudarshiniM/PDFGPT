@@ -13,6 +13,11 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 * **Efficient Information Retrieval:** Quickly find the information you need, saving time and effort.
 * **User-Friendly GUI:** Built with CustomTkinter for a modern look and feel.
 
+## Limitations
+* The system is currently designed to process and respond to English language PDF documents only. Even if a non-English PDF is uploaded, the system will attempt to answer questions in English, which may result in inaccurate or nonsensical responses.
+* The system does not process or respond to PDFs containing only images. It relies on text extraction.
+* The system does not store or persist chat history. Conversations are not accessible after the application is closed or the chat session is ended.
+
 ## Prerequisites
 
 * Python 3.x
@@ -74,11 +79,6 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 
 * Ensure you have a stable internet connection, as PDFGPT relies on the Gemini AI API.
 * For optimal performance, avoid uploading extremely large PDF files.
-* The system is currently designed to process and respond to English language PDF documents only. Even if a non-English PDF is uploaded, the system will attempt to answer questions in English, which may result in inaccurate or nonsensical responses.
-* The system does not process or respond to PDFs containing only images. It relies on text extraction.
-* The system does not store or persist chat history. Conversations are not accessible after the application is closed or the chat session is ended.
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/SudarshiniM/PDFGPT/blob/460b73e43926fff85fccb115adcca9f91c7456d6/LICENSE) file for details.
