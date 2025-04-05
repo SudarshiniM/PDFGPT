@@ -51,7 +51,7 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 2.  The PDFGPT application window will open.
 ![Image](https://github.com/user-attachments/assets/1751e5db-d08e-4da6-8519-474140420530)
 4.  Click the "Upload PDF" button to select the PDF files you want to query.
-![Image](https://github.com/user-attachments/assets/4f7f4edf-93cd-4bec-8fcb-2f5dc3a9123e)
+![Image](https://github.com/user-attachments/assets/8181d285-7970-4351-bbaa-90cdd3785e65)
 6.  Click "Read PDF" to process the uploaded PDFs.
 ![Image](https://github.com/user-attachments/assets/ac4afe19-4012-47c3-8dbe-973120076013)
 8.  Switch to the chat interface to ask questions related to the content of the PDFs.
