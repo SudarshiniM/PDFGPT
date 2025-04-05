@@ -42,33 +42,33 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 
 ## Usage
 
-1.  **Run the `PDFGpt.py` script from your terminal:**
+1.  Run the `PDFGpt.py` script from your terminal:
 
     ```bash
     python PDFGpt.py
     ```
 
-2.  **The PDFGPT application window will open.**
+2.  The PDFGPT application window will open.
 
 ![Image](https://github.com/user-attachments/assets/1751e5db-d08e-4da6-8519-474140420530)
 
-4.  Click the **"Upload PDF"** button to select the PDF files you want to query.
+4.  Click the "Upload PDF" button to select the PDF files you want to query.
 
 ![Image](https://github.com/user-attachments/assets/8181d285-7970-4351-bbaa-90cdd3785e65)
 
-6.  Click **"Read PDF"** to process the uploaded PDFs.
+6.  Click "Read PDF" to process the uploaded PDFs.
 
 ![Image](https://github.com/user-attachments/assets/ac4afe19-4012-47c3-8dbe-973120076013)
 
-8.  **Switch to the chat interface to ask questions related to the content of the PDFs.**
+8.  Switch to the chat interface to ask questions related to the content of the PDFs.
 
 ![Image](https://github.com/user-attachments/assets/1d65a6ec-12c6-46fe-a79d-c333e8a7849d)
 
-10.  **Type your questions in the input box and press Enter or click the send button.**
+10.  Type your questions in the input box and press Enter or click the send button.
 
 ![Image](https://github.com/user-attachments/assets/1434b49d-2e8f-4359-8ef0-22281983ab20)
 
-12.  **PDFGPT will provide answers based on the PDF content.**
+12.  PDFGPT will provide answers based on the PDF content.
 
 ##  Additional Notes
 
