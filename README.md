@@ -70,4 +70,4 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SudarshiniM/PDFGPT/blob/460b73e43926fff85fccb115adcca9f91c7456d6/LICENSE)E file for details.
