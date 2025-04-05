@@ -61,14 +61,7 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 * Ensure you have a stable internet connection, as PDFGPT relies on the Gemini AI API.
 * For optimal performance, avoid uploading extremely large PDF files. [cite: 7]
 
-## Contributing
-
-[You can add a section here if you want others to contribute to your project]
 
 ## License
 
-[You can add license information here if applicable]
-
-## Contact
-
-[Your contact information, if you want to provide it]
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
