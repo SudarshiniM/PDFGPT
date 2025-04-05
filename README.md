@@ -73,7 +73,10 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
 ##  Additional Notes
 
 * Ensure you have a stable internet connection, as PDFGPT relies on the Gemini AI API.
-* For optimal performance, avoid uploading extremely large PDF files. [cite: 7]
+* For optimal performance, avoid uploading extremely large PDF files.
+* The system is currently designed to process and respond to English language PDF documents only. Even if a non-English PDF is uploaded, the system will attempt to answer questions in English, which may result in inaccurate or nonsensical responses.
+* The system does not process or respond to PDFs containing only images. It relies on text extraction.
+* The system does not store or persist chat history. Conversations are not accessible after the application is closed or the chat session is ended.
 
 
 ## License
