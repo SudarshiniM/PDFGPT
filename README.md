@@ -2,13 +2,6 @@
 
 PDFGPT is a Python-based desktop application that allows you to interact with PDF documents using the power of Google's Gemini AI. It transforms static PDFs into dynamic knowledge sources, enabling you to ask questions and receive instant, context-aware answers.
 
-![Image](https://github.com/user-attachments/assets/1751e5db-d08e-4da6-8519-474140420530)
-![Image](https://github.com/user-attachments/assets/ac4afe19-4012-47c3-8dbe-973120076013)
-![Image](https://github.com/user-attachments/assets/fd7eb709-f977-4083-adbf-9f9d424f28c3)
-![Image](https://github.com/user-attachments/assets/1434b49d-2e8f-4359-8ef0-22281983ab20)
-![Image](https://github.com/user-attachments/assets/cc52edb7-fb3b-4763-bb8b-14cad12013a2)
-![Image](https://github.com/user-attachments/assets/093bbfa5-2fa0-4f0d-b948-528f53822e83)
-
 ## Features
 
 * **AI-Powered Question Answering:** Get intelligent answers based on the content of your uploaded PDFs.
@@ -56,11 +49,16 @@ PDFGPT is a Python-based desktop application that allows you to interact with PD
     ```
 
 2.  The PDFGPT application window will open.
-3.  Click the "Upload PDF" button to select the PDF files you want to query.
-4.  Click "Read PDF" to process the uploaded PDFs.
-5.  Switch to the chat interface to ask questions related to the content of the PDFs.
-6.  Type your questions in the input box and press Enter or click the send button.
-7.  PDFGPT will provide answers based on the PDF content.
+![Image](https://github.com/user-attachments/assets/1751e5db-d08e-4da6-8519-474140420530)
+4.  Click the "Upload PDF" button to select the PDF files you want to query.
+![Image](https://github.com/user-attachments/assets/1c790a97-5844-4acd-9dc6-79275369e3e7)
+6.  Click "Read PDF" to process the uploaded PDFs.
+![Image](https://github.com/user-attachments/assets/ac4afe19-4012-47c3-8dbe-973120076013)
+8.  Switch to the chat interface to ask questions related to the content of the PDFs.
+![Image](https://github.com/user-attachments/assets/1d65a6ec-12c6-46fe-a79d-c333e8a7849d)
+10.  Type your questions in the input box and press Enter or click the send button.
+![Image](https://github.com/user-attachments/assets/1434b49d-2e8f-4359-8ef0-22281983ab20)
+12.  PDFGPT will provide answers based on the PDF content.
 
 ##  Additional Notes
 
